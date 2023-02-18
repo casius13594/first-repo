@@ -1,7 +1,7 @@
 const Hello = (props) =>{
   return (
     <div>
-      <p> I love you {props.name} </p>
+      <p> I hate you {props.name} </p>
     </div>
   )
 }
